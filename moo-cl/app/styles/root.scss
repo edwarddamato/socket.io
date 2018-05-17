@@ -1,0 +1,22 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: $bg-colour;
+  color: $main-colour;
+}
+
+.root {
+
+}
+
+.app {
+  &-content {
+    //margin-top: $header-height;
+  }
+}
+
+a {
+  color: $main-colour;
+  text-decoration: none;
+}

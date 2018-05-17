@@ -1,0 +1,27 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #ddf1e7;
+  color: #034435; }
+
+a {
+  color: #034435;
+  text-decoration: none; }
+
+.header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #034435; }
+  .header_title {
+    font-weight: 800;
+    padding: 0;
+    margin: 20px;
+    font-size: 24px;
+    display: inline-block;
+    color: #ddf1e7; }
+
+.nav_section {
+  display: none; }

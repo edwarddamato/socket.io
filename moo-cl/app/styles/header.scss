@@ -1,0 +1,19 @@
+.header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: $bg-alt-colour;
+
+  &_main {
+
+  }
+  &_title {
+    font-weight: 800;
+    padding: 0;
+    margin: 20px;
+    font-size: 24px;
+    display: inline-block;
+    color: $alt-colour;
+  }
+}
